@@ -10,4 +10,4 @@ Overview:
 5. Post that this transformed data is again stored in our Storage location in a different folder
 6. Basic quering and data analysis is then done on this transformed data in Azure Synapse Analytics.
 7. Visualization can then be done both in Synapse Analytics (basic) or a dashboard can be built furthermore.
-8. Here is the link to my dashboard: 
+8. Here is the link to my dashboard: https://public.tableau.com/app/profile/ashwami.dalvi3658/viz/Tokyo_Olympics_dashboard/Dashboard1?publish=yes
